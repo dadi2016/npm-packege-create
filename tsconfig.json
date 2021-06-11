@@ -1,0 +1,13 @@
+{
+  "compilerOptions": {
+    "target": "es2017",
+    "module": "commonjs",
+    "declaration": true,
+    "outDir": "./lib",
+    "experimentalDecorators": true,
+    "allowSyntheticDefaultImports": true,
+    "emitDecoratorMetadata": true
+  },
+  "include": ["src"],
+  "exclude": ["node_modules", "**/__tests__/*"]
+}
