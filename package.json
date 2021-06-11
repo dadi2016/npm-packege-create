@@ -1,0 +1,19 @@
+{
+  "name": "edu-api-common-sample",
+  "version": "1.0.0",
+  "description": "npm package edu-api-common",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dadi2016/npm-packege-create.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dadi2016/npm-packege-create/issues"
+  },
+  "homepage": "https://github.com/dadi2016/npm-packege-create#readme"
+}
